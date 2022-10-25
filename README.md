@@ -1,0 +1,1 @@
+# gazi-git-seminer
